@@ -140,6 +140,9 @@ class _LoginScreenState extends State<LoginScreen>
               ),
 
             ),
+            SizedBox(
+              height: 10,
+            ),
             SignInButton(
                 Buttons.Google,
                 text: "Sign in with Google",

@@ -58,13 +58,14 @@ class _HomeState extends State<Home>{
           ),
           buildHorizontalList(context),
           buildVerticalList(),
-          FloatingActionButton(
-              // isExtended: true,
-              child: Icon(Icons.add),
-              backgroundColor: Colors.green,
-              onPressed: _chatBot,
-              ),
+
         ],
+      ),
+      floatingActionButton:  FloatingActionButton(
+        // isExtended: true,
+        child: Icon(Icons.chat_rounded),
+        backgroundColor: Colors.green,
+        onPressed: _chatBot,
       ),
     );
   }

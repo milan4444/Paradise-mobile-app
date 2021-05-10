@@ -1,5 +1,6 @@
 import 'package:dialog_flowtter/dialog_flowtter.dart';
 import 'package:flutter/material.dart';
+import 'package:tour_wist/util/app_colors.dart';
 
 import '../util/chat_body.dart';
 
@@ -36,10 +37,10 @@ class _ChatbotState extends State<Chatbot> {
           Expanded(child: AppBody(messages: messages)),
           Container(
             padding: const EdgeInsets.symmetric(
-              horizontal: 10,
+              horizontal: 8,
               vertical: 5,
             ),
-            color: Colors.blue,
+            color: AppColors.primaryColor,
             child: Row(
               children: [
                 Expanded(
