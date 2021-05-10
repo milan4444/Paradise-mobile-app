@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244873423132",
+    "project_id": "paradise-c8e12",
+    "storage_bucket": "paradise-c8e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244873423132:android:ef44b0dece3dd4b74a32d9",
+        "android_client_info": {
+          "package_name": "com.example.tour_wist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244873423132-ao6akl5ged52cjfnc0pgoa9nss4faqta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tour_wist",
+            "certificate_hash": "bfe573a11dfc7322dc9afe1eed29573792079ba5"
+          }
+        },
+        {
+          "client_id": "244873423132-lgdh5rh7pbdik3g6s16json51b3u2qu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1N0tGFesUXvkduJgNgh0TZvrJQJv_IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244873423132-lgdh5rh7pbdik3g6s16json51b3u2qu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

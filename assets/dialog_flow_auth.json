@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hotel-booking-eoxp",
+  "private_key_id": "5dcdd5b2d39c22918917700cc3a4f76278cdb803",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmoOrkK6n0EOyJ\nD/E6CLB241dVMU4LTXW59C6k1VtZw60WGXX1VIWYcta0UPZR0lH+hhYH13N52Q0j\naU8qcHSm+up3YPVo2LZy5ynEABRSBuSkNITBwZkYLsBJRSCoGLrwh99NqfuOlHNC\ndrZ14locbYFp+W6Tis+8asWai2C1Q6WsyckLsI/CkzLM2PC9jO1pefSbg3LEI8rG\nZJ9lHw691rPlZ6cVNscuZ90i71di8zPgb1aVAmqa2KUgcMJtvI4sO26mzIOzkcxG\nibdWSh9jx6G8sWinUK88yYO5r85dr9Dk6/KKjkR2pl7SOKiLhcAw3i0oF2lzZoZu\nDsp5H6TRAgMBAAECggEAGtEwLJu4ZQ7qOp7luGzYlbG+BviB8oC7bzuU3DN4WciL\nzVA4s0ywmZn14xxaoE2Eo72JwyZSL+yWWDolIxPpOkyMurzQkli6eGCq0KAgpRj1\n6FWJfjN9w64WhVRKTrN4Nqjvb+zpDwfmSu6XK/7LeOLI3rjlqno/N7hJaDeBT3q6\nmS9kevVCvtmilu4fT/KiDXZrJ8y3HIe7NwLjMQMd7G0//XTRPqIrtdiS2Tbu53xL\ntx/PrS5BAJYcYYvsDOiLoi1Fk3lD5wfbKqVzK42J3BaY91dBfuJc4Au4+RFkECML\nsuy3Lxx0WWDFkxiWze8PTOCAQiJeatbNeq1eXBREyQKBgQDZM3Zx5svwymk9F4St\n2v1MaONsxRpb4YpJ4IxSqFu7bf0Hm+lOyRmVmjraEus0i1at/+cnklIS1ltvLBsI\nu12iqaic4ygEekcJaVj01PKEhozuIpNCFmsCSC8cZZCjoIPz3bIhn28xiJPKWVdx\n0bfkT2nvXQkwfjYwWjvAS9LqFQKBgQDEZMrY+WGTeWw+67D+1tCs9BnoUnzfXv48\nJ/HmoYwruX+Xtleab/oKarnXMpVlZU0zL+wZxgAhO+/VAvmjZUuflaDwZo3thFHt\ns9qW6gfgVlfpG/mmmuZ7fjr4EAUrW3DeyeHwkn3tNFvhSA3pWUsOVG5s1uvK6EVu\nqiOq6ffqzQKBgQDGTpJKFGsHggbr3FkrUtIJvYpHeP5D/XyBTx9PKJ/4VMe89sDh\nSgKt8I7jJHrTEpUlcIvgOVvuDwCUVDSqmEc5iKWF+HBFBk9tbF3ny7VRAngRxEen\nA0jYYIeC6chRXPCc60EEKckf9I7bJQ8NwGihb1BNVyhYuiNHqlr7iz8asQKBgDzt\nuDDQTYFfLkHnBSZKprrBkDgPP0ZdRiqLifSvMblu9zKuE0eKbdxFeBpXSxoF74lt\n2KW2U9v7qFBBeAlFJ8z+sstiRa3mWzSPk8U2HfNvVh6v2yfg7phpdQn4jmIBIGc9\n4qasC/1HPSoLHKXEWhC8CPYjR0vP+5p1llMz+wIRAoGAL2ere1NfrXXDaIt2lfkX\nd9XPyPGv3aNYUPGjCaS7ZLQr8zTElV9NsrrE4IY2YDC6s8Uv0QBdwl43QVe/QBAl\nDKG2aip7M+LEwPALr5/DaqOMJaxLV3jhgzkGhO6hjHnM3/iqYsPmZkSINSvBR/Mw\nVBVbMmu6bao9vTiNZp7yGiQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tourwistnew@hotel-booking-eoxp.iam.gserviceaccount.com",
+  "client_id": "116716854803565876669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tourwistnew%40hotel-booking-eoxp.iam.gserviceaccount.com"
+}
